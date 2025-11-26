@@ -1,0 +1,5 @@
+{
+  "name": "Staročeský Transkriptor",
+  "description": "Aplikace pro transkripci staročeských textů (OCR) s využitím AI. Nabízí diplomatický přepis a převod do moderního pravopisu.",
+  "requestFramePermissions": []
+}
